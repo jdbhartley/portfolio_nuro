@@ -33,12 +33,14 @@ const staticMenuItems: Array<Array<NavigationItem>> = [
 			text: 'Timeline',
 			href: '/timeline',
 		},
+		/* Incase I want to add back in referrals.
 		{
 			type: NavigationItemType.LINK,
 			icon: 'feather:link',
 			text: 'Referrals',
 			href: '/referrals',
 		},
+		*/
 	],
 	[
 		{

@@ -1,76 +1,94 @@
 [
 	{
-		"date": "03-14-2022",
-		"title": "Started @ Wander",
-		"description": "Joined the Wander team",
-		"icon": "feather:briefcase",
-		"link": {
-			"text": "Visit Wander",
-			"url": "https://wander.com/"
-		}
-	},
-	{
-		"date": "10-22-2021",
-		"title": "Launched nuro.dev",
-		"description": "Successfully launched my newly re-designed portfolio",
+		"date": "07-01-2022",
+		"title": "Promoted to Technical Support Lead",
+		"description": "Promoted to technical support manager at YAPI. Where I assist in maintaining the legacy codebase.",
 		"icon": "feather:award"
 	},
 	{
-		"date": "03-15-2021",
-		"title": "Started @ Attio",
-		"description": "Joined the Attio team",
-		"icon": "feather:briefcase",
-		"link": {
-			"text": "Visit Attio",
-			"url": "https://attio.com/"
-		}
-	},
-	{
-		"date": "11-16-2020",
-		"title": "Started @ Aiming.pro",
-		"description": "Joined the Aiming.pro team",
-		"icon": "feather:briefcase",
-		"link": {
-			"text": "Visit Aiming.pro",
-			"url": "https://aiming.pro/"
-		}
-	},
-	{
-		"date": "07-15-2020",
-		"title": "Graduated University!",
-		"description": "Successfully completed my Bachelor's Degree",
+		"date": "12-16-2020",
+		"title": "Awarded C++ Programming Certificate!",
+		"description": "Successfully completed the courses required for my C++ college certificate. Awarded in California.",
 		"icon": "feather:award"
 	},
 	{
-		"date": "10-11-2018",
-		"title": "First Developer Role",
-		"description": "Began an internship as a junior developer working at Stink Studios",
+		"date": "10-08-2020",
+		"title": "Promotion @ YAPI!",
+		"description": "I was promoted to senior technical support specialist.",
+		"icon": "feather:award"
+	},
+	{
+		"date": "07-22-2019",
+		"title": "Started @ YAPI",
+		"description": "Joined the Yapi team as a technical support specialist.",
 		"icon": "feather:briefcase",
 		"link": {
-			"text": "Visit Stink Studios",
-			"url": "https://stinkstudios.com/"
+			"text": "Visit YAPI",
+			"url": "https://yapiapp.com/"
 		}
 	},
 	{
-		"date": "11-04-2016",
-		"title": "First Job!",
-		"description": "Began my first part-time job as a junior service desk analyist at CreeperHost",
-		"icon": "feather:briefcase",
+		"date": "12-06-2018",
+		"title": "Released Hyper Color Push!",
+		"description": "Released my first commercial title into the Android and iOS app stores.",
+		"icon": "feather:layout",
 		"link": {
-			"text": "Visit CreeperHost",
-			"url": "http://creeperhost.net/"
+			"text": "See Trailer",
+			"url": "https://youtu.be/fSkaO2LAT-4?si=SFlnCZA4OCmEI9HW"
 		}
 	},
 	{
-		"date": "09-10-2016",
-		"title": "Start University",
-		"description": "Began studying Computer Games Programming at Staffordshire University",
+		"date": "07-07-2018",
+		"title": "Completed Android Nanodegree Program!",
+		"description": "I was awarded a scholarship by Google to participate in their Android development nanodegree program, which I completed and attained the degree.",
+		"icon": "feather:award"
+	},
+	{
+		"date": "01-12-2014",
+		"title": "Switched jobs to RO/Water Purification Technician",
+		"description": "Took a bit of a curve here when I was offered an opportunity with a company called Miatech to work on reverse osmosis systems.",
+		"icon": "feather:briefcase",
+		"link": {
+			"text": "Visit Miatech",
+			"url": "https://miatech.org/"
+		}
+	},
+	{
+		"date": "03-15-2017",
+		"title": "Started work as a freelance dev / hardware technician.",
+		"description": "I left Miatech to try working fulltime as a freelance developer and hardware technician.",
+		"icon": "feather:briefcase"
+	},
+	{
+		"date": "01-12-2014",
+		"title": "Switched jobs to RO/Water Purification Technician",
+		"description": "Took a bit of a curve here when I was offered an opportunity with a company called Miatech to work on reverse osmosis systems.",
+		"icon": "feather:briefcase",
+		"link": {
+			"text": "Visit Miatech",
+			"url": "https://miatech.org/"
+		}
+	},
+	{
+		"date": "04-21-2012",
+		"title": "First Technical Job!",
+		"description": "Promoted from heavy machines operator to Business Systems Analyst at Nike Inc.",
+		"icon": "feather:briefcase",
+		"link": {
+			"text": "Visit Nike",
+			"url": "https://www.nike.com/"
+		}
+	},
+	{
+		"date": "08-10-2008",
+		"title": "Start College",
+		"description": "Began studying Computer Simulations Programming at The Art Institute",
 		"icon": "feather:book"
 	},
 	{
-		"date": "08-09-1997",
+		"date": "01-06-1990",
 		"title": "Birthday!",
-		"description": "I was born the 9th of August 1997",
+		"description": "I was born on January 6th, 1990.",
 		"icon": "feather:gift"
 	}
 ]
