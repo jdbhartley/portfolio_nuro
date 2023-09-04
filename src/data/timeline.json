@@ -7,8 +7,8 @@
 	},
 	{
 		"date": "12-16-2020",
-		"title": "Awarded C++ Programming Certificate!",
-		"description": "Successfully completed the courses required for my C++ college certificate. Awarded in California.",
+		"title": "C++ Programming Cert!",
+		"description": "Successfully completed the courses required for my C++ certification. Awarded by Riverside College.",
 		"icon": "feather:award"
 	},
 	{
@@ -39,13 +39,13 @@
 	},
 	{
 		"date": "07-07-2018",
-		"title": "Completed Android Nanodegree Program!",
+		"title": "Android Nanodegree!",
 		"description": "I was awarded a scholarship by Google to participate in their Android development nanodegree program, which I completed and attained the degree.",
 		"icon": "feather:award"
 	},
 	{
 		"date": "01-12-2014",
-		"title": "Switched jobs to RO/Water Purification Technician",
+		"title": "Reverse Osmosis Technician",
 		"description": "Took a bit of a curve here when I was offered an opportunity with a company called Miatech to work on reverse osmosis systems.",
 		"icon": "feather:briefcase",
 		"link": {
