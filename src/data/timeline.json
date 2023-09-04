@@ -39,9 +39,15 @@
 	},
 	{
 		"date": "07-07-2018",
-		"title": "Android Nanodegree!",
+		"title": "Android Nanodegree",
 		"description": "I was awarded a scholarship by Google to participate in their Android development nanodegree program, which I completed and attained the degree.",
 		"icon": "feather:award"
+	},
+	{
+		"date": "03-15-2017",
+		"title": "Freelancer!",
+		"description": "I left Miatech to work fulltime as a freelance developer and hardware technician.",
+		"icon": "feather:briefcase"
 	},
 	{
 		"date": "01-12-2014",
@@ -54,24 +60,8 @@
 		}
 	},
 	{
-		"date": "03-15-2017",
-		"title": "Started work as a freelance dev / hardware technician.",
-		"description": "I left Miatech to try working fulltime as a freelance developer and hardware technician.",
-		"icon": "feather:briefcase"
-	},
-	{
-		"date": "01-12-2014",
-		"title": "Switched jobs to RO/Water Purification Technician",
-		"description": "Took a bit of a curve here when I was offered an opportunity with a company called Miatech to work on reverse osmosis systems.",
-		"icon": "feather:briefcase",
-		"link": {
-			"text": "Visit Miatech",
-			"url": "https://miatech.org/"
-		}
-	},
-	{
 		"date": "04-21-2012",
-		"title": "First Technical Job!",
+		"title": "First Technical Position",
 		"description": "Promoted from heavy machines operator to Business Systems Analyst at Nike Inc.",
 		"icon": "feather:briefcase",
 		"link": {
@@ -81,8 +71,8 @@
 	},
 	{
 		"date": "08-10-2008",
-		"title": "Start College",
-		"description": "Began studying Computer Simulations Programming at The Art Institute",
+		"title": "Art Institute",
+		"description": "Began studying Computer Simulations Programming at The Art Institute. Unfortunately the school was shortly sued for fraud and with classes they had me taking, it made sense.",
 		"icon": "feather:book"
 	},
 	{
