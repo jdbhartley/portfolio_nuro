@@ -8,22 +8,22 @@ export function useSeoProps(
 ): Partial<ComponentProps<typeof NextSeo>> {
 	const router = useRouter();
 
-	const title = 'nuro ─ developer';
-	const description = "Hey 👋 I'm Ben, a developer";
+	const title = 'James Hartley ─ Developer';
+	const description = "Hey 👋 I'm James, a developer";
 
 	return {
 		title,
 		description,
-		canonical: `https://nuro.dev/${router.asPath}`,
+		canonical: `https://jameshartley.netlify.app/${router.asPath}`,
 		openGraph: {
 			title,
 			description,
-			site_name: 'nuro',
-			url: `https://nuro.dev/${router.asPath}`,
+			site_name: 'jameshartley_portfolio',
+			url: `https://jameshartley.netlify.app/${router.asPath}`,
 			type: 'website',
 			images: [
 				{
-					url: 'https://nuro.dev/banner.png',
+					url: 'https://jameshartley.netlify.app/banner.png',
 					alt: description,
 					width: 1280,
 					height: 720,
@@ -32,8 +32,8 @@ export function useSeoProps(
 		},
 		twitter: {
 			cardType: 'summary_large_image',
-			handle: '@nurodev',
-			site: '@nurodev',
+			handle: '@jameshartleydev',
+			site: '@jameshartleydev',
 		},
 		...props,
 	};
