@@ -62,18 +62,12 @@
 	{
 		"date": "04-21-2012",
 		"title": "First Technical Position",
-		"description": "Promoted from heavy machines operator to Business Systems Analyst at Nike Inc.",
+		"description": "Promoted from heavy machines operator to Business Systems Analyst at Nike Inc. due to technical aptitude.",
 		"icon": "feather:briefcase",
 		"link": {
 			"text": "Visit Nike",
 			"url": "https://www.nike.com/"
 		}
-	},
-	{
-		"date": "08-10-2008",
-		"title": "Art Institute",
-		"description": "Began studying Computer Simulations Programming at The Art Institute. Unfortunately the school was shortly sued for fraud and with classes they had me taking, it made sense.",
-		"icon": "feather:book"
 	},
 	{
 		"date": "01-06-1990",
