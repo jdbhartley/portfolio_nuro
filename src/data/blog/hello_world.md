@@ -1,6 +1,6 @@
 ---
 banner_alt: Screenshot of the website
-banner: images/helloworld.png
+banner: /blog/hello_world/helloworld.png
 title_prefix: Introducing
 title: 👋🏻 Hello World
 description: My portfolio has been long overdue a re-design & fresh lick of paint, so here's how I did it.
